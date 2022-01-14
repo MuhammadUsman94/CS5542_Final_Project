@@ -1,4 +1,4 @@
-# CS5542_Final_Project
+# Amazon reviews Sentiment Analysis & Product Demand Prediction Using Deep Learning Model
 # Team_name: Team 1
 # Team_Members:
 * Muhammad Usman (mubct@umsystem.edu)
